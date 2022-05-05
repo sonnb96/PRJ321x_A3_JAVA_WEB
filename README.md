@@ -3,10 +3,10 @@
 [Click vào đây để xem](https://prj321-sonnb-project.herokuapp.com/)
 
 ## CÔNG NGHỆ DỰ ÁN SỬ DỤNG
- Về Frontend:
+ 1. Về Frontend:
  -  Framework Bootstrap làm giao diện 
  -  Jquery, Ajax 
- Về Backend :
+ 2. Về Backend :
 - Servlet, Jsp, jstl
 - Sử dụng mô hình mvc 
 - Dùng jdbc để kết nối với Sql Server
