@@ -35,6 +35,9 @@
 
 ## CẤU HÌNH JDBC ĐỂ KẾT NỐI NỐI DỮ LIỆU TẠI FILE DBCONTEXT.CLASS
 
+## TRANG ADMIN
+1. Nhập thêm đuôi Admin /PRJ321x_A3/Admin => vào trang login admin (chú ý chỉ có account có role = 0 được phép truy cập trang admin)
+
 ## HÌNH ẢNH DEMO VỀ DỰ ÁN
 ![Home](https://github.com/sonnb96/PRJ321x_A3_JAVA_WEB/blob/main/HomeGui.png)
 ![Detail product](https://github.com/sonnb96/PRJ321x_A3_JAVA_WEB/blob/main/HomeGui.png)
