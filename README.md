@@ -33,7 +33,8 @@
 ## DATABASE DEMO
 [LINK TẠI ĐÂY](https://github.com/sonnb96/PRJ321x_A3_JAVA_WEB/blob/main/ShoppingDB.sql)
 
-## CẤU HÌNH JDBC ĐỂ KẾT NỐI NỐI DỮ LIỆU TẠI FILE DBCONTEXT.CLASS
+## CẤU HÌNH JDBC ĐỂ KẾT NỐI NỐI DỮ LIỆU 
+- Tại file DBCONTEXT.CLASS
 
 ## TRANG ADMIN
 - Nhập thêm đuôi Admin /PRJ321x_A3/Admin => vào trang login admin (chú ý chỉ có account có thuộc tính role = 0 trong database được phép truy cập trang admin)
