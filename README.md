@@ -30,7 +30,12 @@
 15. Sử dụng Ajax để load sản phẩm lên trang
 16. Tạo trang admin đơn giản
 
-## HÌNH ANH DEMO VỀ DỰ ÁN
+## DATABASE DEMO
+[LINK TẠI ĐÂY](https://github.com/sonnb96/PRJ321x_A3_JAVA_WEB/blob/main/ShoppingDB.sql)
+
+## CẤU HÌNH JDBC ĐỂ KẾT NỐI NỐI DỮ LIỆU TẠI FILE DBCONTEXT.CLASS
+
+## HÌNH ẢNH DEMO VỀ DỰ ÁN
 ![Home](https://github.com/sonnb96/PRJ321x_A3_JAVA_WEB/blob/main/HomeGui.png)
 ![Detail product](https://github.com/sonnb96/PRJ321x_A3_JAVA_WEB/blob/main/HomeGui.png)
 ![Order](https://github.com/sonnb96/PRJ321x_A3_JAVA_WEB/blob/main/HomeGui.png)
