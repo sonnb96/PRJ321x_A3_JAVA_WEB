@@ -1,4 +1,4 @@
-# PRJ321x_A3_JAVA_WEB
+# DỰ ÁN JAVA WEB BÁN ĐIỆN THOẠI DI ĐỘNG
 Yêu cầu của project
 1. Hiển thị đủ số bản ghi trong bảng products của data source 
 2. Sử dụng JSTL để hiển thị dữ liệu trong JSP
