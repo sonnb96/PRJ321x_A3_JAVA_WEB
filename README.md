@@ -1,7 +1,18 @@
 # DỰ ÁN JAVA WEB BÁN ĐIỆN THOẠI DI ĐỘNG
-## HÌNH ANH DEMO VỀ DỰ ÁN
-![]()
-Yêu cầu của project
+## LINK DEMO DỰ ÁN
+[Click vào đây để xem](https://prj321-sonnb-project.herokuapp.com/)
+
+## CÔNG NGHỆ DỰ ÁN SỬ DỤNG
+ Về Frontend:
+ -  Framework Bootstrap làm giao diện 
+ -  Jquery, Ajax 
+ Về Backend :
+- Servlet, Jsp, jstl
+- Sử dụng mô hình mvc 
+- Dùng jdbc để kết nối với Sql Server
+- Ngôn ngữ biểu thi EL
+
+## Yêu cầu của project
 1. Hiển thị đủ số bản ghi trong bảng products của data source 
 2. Sử dụng JSTL để hiển thị dữ liệu trong JSP
 3. Sử dụng EL để lưu trữ dữ liệu nhập vào trên form search
@@ -18,3 +29,8 @@ Yêu cầu của project
 14. Thay đổi số lượng và thêm bớt sản phẩm trong giỏ hàng
 15. Sử dụng Ajax để load sản phẩm lên trang
 16. Tạo trang admin đơn giản
+
+## HÌNH ANH DEMO VỀ DỰ ÁN
+![Home](https://github.com/sonnb96/PRJ321x_A3_JAVA_WEB/blob/main/HomeGui.png)
+![Detail product](https://github.com/sonnb96/PRJ321x_A3_JAVA_WEB/blob/main/HomeGui.png)
+![Order](https://github.com/sonnb96/PRJ321x_A3_JAVA_WEB/blob/main/HomeGui.png)
