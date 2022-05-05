@@ -30,6 +30,10 @@
 15. Sử dụng Ajax để load sản phẩm lên trang
 16. Tạo trang admin đơn giản
 
+## TRUY CẬP CỤC BỘ
+-Toàn dự án nằm trong thư mục PRJ321x_A3
+-Chạy trên tomcat, cách truy cập local ví dụ "http://localhost:8080/PRJ321x_A3/"
+
 ## DATABASE DEMO
 [LINK TẠI ĐÂY](https://github.com/sonnb96/PRJ321x_A3_JAVA_WEB/blob/main/ShoppingDB.sql)
 
